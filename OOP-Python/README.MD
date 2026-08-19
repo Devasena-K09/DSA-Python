@@ -20,10 +20,9 @@ A repository to learn and practice Object-Oriented Programming concepts using Py
 
 ✅ Classes
 ✅ Inheritance
-🚧 Polymorphism
-⬜ Encapsulation
-⬜ Abstraction
-⬜ Projects
-## Goal
+✅ Polymorphism
+✅ Encapsulation
+✅ Abstraction
+🚧 Projects
 
 Build strong OOP fundamentals for software engineering interviews and real-world applications.
