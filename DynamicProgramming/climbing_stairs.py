@@ -1,18 +1,16 @@
-class Solution:
-    def climbStairs(self, n: int) -> int:
-        if n <= 2:
-            return n
+def climb_stairs(n):
+    if n <= 2:
+        return n
 
-        first = 1
-        second = 2
+    dp = [0] * (n + 1)
+    dp[1] = 1
+    dp[2] = 2
 
-        for _ in range(3, n + 1):
-            third = first + second
-            first = second
-            second = third
+    for i in range(3, n + 1):
+        dp[i] = dp[i - 1] + dp[i - 2]
 
-        return second
+    return dp[n]
 
 
-# Example
-print(Solution().climbStairs(5))
+n = 5
+print(climb_stairs(n))
