@@ -12,8 +12,8 @@ A structured SQL repository covering:
 ## Topics Covered
 
 ✅ Basic Queries
-🚧 Joins
-⬜ Group By
+✅ Joins
+🚧 Group By
 ⬜ Subqueries
 ⬜ Window Functions
 ⬜ Interview Questions
