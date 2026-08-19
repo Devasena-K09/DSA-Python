@@ -1,91 +1,89 @@
 # 🚀 DSA-Python
 
-A structured Data Structures & Algorithms repository built using Python.
-
-This repository documents my learning journey and implementation of core DSA concepts commonly used in software engineering interviews and competitive programming.
+My Data Structures and Algorithms journey in Python.
 
 ---
 
-## 📊 Progress Tracker
+## 📚 Topics Covered
 
-| Topic | Status |
-|--------|--------|
-| Arrays | ✅ |
-| Strings | ✅ |
-| Recursion | ✅ |
-| Searching | ✅ |
-| Sorting | ✅ |
-| Stacks | ✅ |
-| Queues | ✅ |
-| Linked Lists | ✅ |
-| Trees | ✅ |
-| Binary Search Trees | ✅ |
-| Graphs | ✅ |
-| Dynamic Programming | ✅ |
-| Heaps | ✅ |
-| Hashing | ✅ |
-| Greedy Algorithms | ✅ |
-| Backtracking | ✅ |
-| Sliding Window | ✅ |
-| Two Pointers | ✅ |
-| Advanced Graphs | ✅ |
+### Arrays
+- Two Sum
+- Best Time to Buy and Sell Stock
+- Maximum Subarray
 
----
+### Strings
+- Valid Anagram
+- Longest Common Prefix
+- Reverse String
 
-## 📂 Repository Structure
+### Searching
+- Binary Search
+- Search Insert Position
 
-```text
-DSA-Python
-│
-├── Arrays
-├── Strings
-├── Recursion
-├── Searching
-├── Sorting
-├── Stacks
-├── Queues
-├── LinkedLists
-├── Trees
-├── BinarySearchTrees
-├── Graphs
-├── DynamicProgramming
-├── Heaps
-├── Hashing
-├── Greedy
-├── Backtracking
-├── SlidingWindow
-├── TwoPointers
-└── AdvancedGraphs
-```
+### Sorting
+- Bubble Sort
+- Merge Sort
+- Quick Sort
 
----
+### Linked Lists
+- Reverse Linked List
+- Merge Two Sorted Lists
 
-## 🎯 Goals
+### Stacks
+- Valid Parentheses
+- Min Stack
 
-- Strengthen problem-solving skills
-- Master core DSA concepts
-- Prepare for Software Engineering interviews
-- Build a consistent coding habit
-- Maintain a structured learning repository
+### Queues
+- Circular Queue
 
----
+### Trees
+- Inorder Traversal
+- Level Order Traversal
 
-## 💻 Language
+### Graphs
+- BFS
+- DFS
+- Number of Islands
 
-- Python
+### Dynamic Programming
+- Climbing Stairs
+- House Robber
+- Coin Change
+
+### Backtracking
+- N Queens
+- Subsets
+- Permutations
+
+### Greedy
+- Activity Selection
+- Fractional Knapsack
+
+### Hashing
+- Two Sum
+- Longest Consecutive Sequence
+
+### Advanced Graphs
+- Dijkstra Algorithm
+- Shortest Path
 
 ---
 
-## 📈 Current Status
+## 🎯 Goal
 
-Topics Completed: **19/19**
-
-Core DSA Roadmap: **Completed ✅**
+- Improve problem solving
+- Prepare for coding interviews
+- Strengthen DSA concepts
+- Become a better software engineer
 
 ---
 
-## 👩‍💻 Author
+## 🛠 Language
 
-**Devasena K**
+Python
 
-GitHub: https://github.com/Devasena-K09
+---
+
+## ⭐ Repository Status
+
+Actively Updated
