@@ -23,6 +23,13 @@ A repository to learn and practice Object-Oriented Programming concepts using Py
 ✅ Polymorphism
 ✅ Encapsulation
 ✅ Abstraction
-🚧 Projects
+
+## Projects
+
+✅ Library Management System
+✅ Banking System
+✅ Employee Management System
+
+Status: Completed
 
 Build strong OOP fundamentals for software engineering interviews and real-world applications.
